@@ -5,6 +5,7 @@
   #social {
     position: absolute;
     width: auto;
-
+    padding-top: 82px;
+    padding-right: 4px;
   }
 }
